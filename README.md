@@ -1,6 +1,15 @@
 ### Hi there 👋
 - 🌱 I’m Ziad, an aspiring web developer learning the MERN stack through "Programming Hero".
 - 💬 I'm passionate about creating dynamic web applications and currently gaining hands-on experience with MongoDB, Express.js, React.js, and Node.js.
+
+## Technologies I'm gaining hands-on experience 💻
+List the technologies, frameworks, and libraries:
+
+- MongoDB 🍃
+- Express.js 🚂
+- React.js ⚛️
+- Node.js 🟢
+- Bootstrap 🌈
 <!--
 **amziad/amziad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
